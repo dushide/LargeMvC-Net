@@ -4,7 +4,7 @@ LargeMvC-Net is a framework for large-scale multi-view clustering. This reposito
 
 ### Installation
 1. **Clone the repository:**
-- git clone https://anonymous.4open.science/r/OpenMvL-1C66/
+- git clone https://anonymous.4open.science/r/LargeMvC-Net-6F01
 2. **Set up the environment:**
 - Use Conda to create an environment with the required dependencies:
 - conda create -n largemvc python=3.8.19
@@ -12,7 +12,7 @@ LargeMvC-Net is a framework for large-scale multi-view clustering. This reposito
 - pip install -r requirements.txt
 
 ### Datasets Preparation
-- For all datasets, please obtain them from the following links: <https://drive.google.com/drive/folders/1ew_1h023jA-bqnZrbWnsRFEfjRFnqdpD?usp=sharing>;
+- For all datasets, please obtain them from the following links: <https://drive.google.com/drive/folders/1rnJigqRyRKP2bOwNZuxh68osWA_z26Df?usp=sharing>;
 - Download datasets from the provided links.
 - Place the datasets in the `/data` directory:
  /data/

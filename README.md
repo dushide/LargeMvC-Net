@@ -12,7 +12,7 @@ LargeMvC-Net is a framework for large-scale multi-view clustering. This reposito
 - pip install -r requirements.txt
 
 ### Datasets Preparation
-- For all datasets, please obtain them from the following links: <https://drive.google.com/drive/folders/1rnJigqRyRKP2bOwNZuxh68osWA_z26Df?usp=sharing>;
+- For all datasets, please obtain them from the following links: <https://drive.google.com/drive/folders/1DcaeDbFz6eNYpy1ohliaqCBJ2gZtG3PE?usp=sharing>;
 - Download datasets from the provided links.
 - Place the datasets in the `/data` directory:
  /data/
